@@ -32,7 +32,7 @@ YEAR-MONTH-DAY-title.MARKUP
 {% endhighlight %}
 
 여기서 `YEAR` 는 네 자리의 숫자, `MONTH` 와 `DAY` 는 두 자리 숫자이고, 확장자
-부분의 `MARKUP` 은 파일에 사용된 마크다운 포맷입니다. 올바른 포스트 파일명을
+부분의 `MARKUP` 은 파일에 사용된 포맷입니다. 올바른 포스트 파일명을
 예로 들면 다음과 같습니다:
 
 {% highlight bash %}
